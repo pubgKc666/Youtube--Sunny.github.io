@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+  avatar           : # the base hostname & protocol for your site e.g. "#"
   name             : "Youtube--Sunny"
   pronouns         : "she"  
   bio              : "这个主播专注于户开嘻嘻"
