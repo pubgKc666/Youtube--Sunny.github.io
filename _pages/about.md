@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎访问东東的博客”
+title: "欢迎访问东東的博客"
 permalink: /
 title: "欢迎访问东東的个人博客"
 author_profile: true
