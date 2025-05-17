@@ -2,7 +2,7 @@
 permalink: /
 title: "欢迎访问东東的博客"
 permalink: /
-title: "欢迎访问东東的个人博客"
+title: "欢迎访问东東的博客"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,4 +20,5 @@ redirect_from:
 [X链接](https://x.com/zhouyijun186128)
 [Youtube]和快手同名
 QQ群963400712
+
 快手号：Youtube__Sunny
